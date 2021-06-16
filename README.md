@@ -1,6 +1,8 @@
 # Webpack Starter
 
-This is an initial proyect to create apps using webpack.
+This is an practice app to make a To do list with filters (completed, pending),
+
+Github pages example: https://michwiesner.github.io/todo-app-js/
 
 ### Notes:
 Rebuild node modules:
